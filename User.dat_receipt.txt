@@ -1,0 +1,10 @@
+
+----- Receipt -----
+Account Number: 103948
+Phone Number or Username: User
+Timestamp: Fri May 03 19:16:46 2024
+Action: Deposit
+Amount: 99999.00
+Total Balance: 99999.00
+--------------------
+

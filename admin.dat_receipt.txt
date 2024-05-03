@@ -1,0 +1,50 @@
+
+----- Receipt -----
+Account Number: 098
+Phone Number or Username: admin
+Timestamp: Tue Dec 19 00:32:17 2023
+Action: Balance Inquiry
+Amount: 0.00
+Total Balance: 0.00
+--------------------
+
+
+----- Receipt -----
+Account Number: 098
+Phone Number or Username: admin
+Timestamp: Tue Dec 19 00:32:34 2023
+Action: Deposit
+Amount: 99999.00
+Total Balance: 99999.00
+--------------------
+
+
+----- Receipt -----
+Account Number: 098
+Phone Number or Username: admin
+Timestamp: Tue Dec 19 00:32:45 2023
+Action: Withdraw
+Amount: 3333.00
+Total Balance: 96666.00
+--------------------
+
+
+----- Receipt -----
+Account Number: 098
+Phone Number or Username: admin
+Timestamp: Tue Dec 19 00:36:13 2023
+Action: Balance Inquiry
+Amount: 3333.00
+Total Balance: 93333.00
+--------------------
+
+
+----- Receipt -----
+Account Number: 098
+Phone Number or Username: admin
+Timestamp: Sun Dec 24 14:20:51 2023
+Action: Balance Inquiry
+Amount: 0.00
+Total Balance: 93666.00
+--------------------
+
