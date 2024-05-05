@@ -6,7 +6,7 @@ Sebuauh program simpel online atm untuk keperluan Tugas Besar Mata Kuliah Logika
 
 ## Features
 
-Program ini akan mencakup fitur-fitur dasar seperti,
+Program ini akan mencakup fitur-fitur dasar seperti
 - Registrasi akun
 - Menu Login
 - Pengecekan saldo
